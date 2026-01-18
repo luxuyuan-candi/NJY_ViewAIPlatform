@@ -1,0 +1,4 @@
+stream/logs/
+stream/frames/
+stream/*.log
+stream/go.sum
