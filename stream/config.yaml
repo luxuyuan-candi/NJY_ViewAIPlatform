@@ -3,5 +3,5 @@ interval_ms: 1000
 post_url: ""
 ffmpeg_path: "C:/Program Files/ffmpeg/bin/ffmpeg.exe"
 request_timeout_ms: 8000
-output_dir: "frames"
-log_dir: "logs"
+output_dir: "C:/services/stream/frames"
+log_dir: "C:/services/stream/logs"
