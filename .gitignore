@@ -2,3 +2,5 @@ stream/logs/
 stream/frames/
 stream/*.log
 stream/go.sum
+stream/stream.exe
+dist/StreamCapture-1.0/
